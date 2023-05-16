@@ -37,11 +37,9 @@ contract ExceptionExample {
     }
 }
 ```
-* To compile the code, go to the "Solidity Compiler" tab located on the left-hand sidebar. Ensure that the "Compiler" option is set to a compatible version, such as "0.8.18", and then select the "Compile myToken.sol" button.
+* To compile the code, go to the "Solidity Compiler" tab located on the left-hand sidebar. Ensure that the "Compiler" option is set to a compatible version, such as "0.8.0", and then select the "Compile funcANDerror.sol" button.
 
-* Once the code has been compiled, navigate to the "Deploy & Run Transactions" tab on the left-hand sidebar to deploy the contract. From the dropdown menu, select the "myToken" contract and press the "Deploy" button.
-
-* After the contract is deployed, you can input values at the "mint" and "burn" function and click transact. you can also check the balances by inputting the address you want to track and by calling it. Lastly, you can view the values of the totalSupply, tokenName, and tokenAbbrv by simply clicking on it.
+* Once the code has been compiled, navigate to the "Deploy & Run Transactions" tab on the left-hand sidebar to deploy the contract. From the dropdown menu, select the "funcANDerror" contract and press the "Deploy" button.
 
 ## Author
 Patricia Go
